@@ -1,0 +1,13 @@
+1. HTTP 1:
+          1. HTTP 1 loads the data one by one with delay.
+          2. If there is any interupption while loading the data it wont allow to load.
+
+   HTTP 2:
+          1. HTTP 2 can load the multiple data in same time.
+          2. if any interupption whileloading the data will not affect the data transaction.
+
+
+2. Objects:
+          1. In javascript we can call objects like Boolean, String, Numbers, Statement, Arrays, Function etc...
+          2. It’s most important data-type and forms the building blocks for JavaScript.
+          
