@@ -1,0 +1,14 @@
+1.Write a blog on difference between http1.1 vs http2:
+
+      HTTP 1.1 loads resources one after the other, so if one resource cannot be loaded,
+it blocks all the other resources behind it. 
+      HTTP 2 is able to use a single TCP connection to send multiple streams of data at 
+at once so that no one resouce blocks any other resouce.
+
+
+2. Write a blog objects and its internal reresentation in javascript:
+
+     In javascript, an object is a standalone entity, with proerties and tye. 
+Compare it with a cup, for example. A cup is an object, with properties. A cup 
+has a color, design, weight, a material it is made of, etc. The sameway, Javascript 
+objects can have properties, which define their characteristics.
