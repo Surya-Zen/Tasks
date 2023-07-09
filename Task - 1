@@ -6,7 +6,7 @@ it blocks all the other resources behind it.
 at once so that no one resouce blocks any other resouce.
 
 
-2. Write a blog objects and its internal reresentation in javascript:
+2. Write a blog objects and its internal representation in javascript:
 
      In javascript, an object is a standalone entity, with proerties and tye. 
 Compare it with a cup, for example. A cup is an object, with properties. A cup 
